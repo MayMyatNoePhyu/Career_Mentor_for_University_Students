@@ -8,8 +8,6 @@
 ![Status](https://img.shields.io/badge/Project-Final%20Year-success)
 
 
-# 🎓 Career Mentor for University Students
-
 A web-based **AI-powered Career Guidance Platform** designed to help university students prepare for their future careers.
 
 The platform provides personalized **career recommendations**, **resume analysis**, **AI mock interviews**, **skill assessments**, and **learning resources** to improve students' employability and interview confidence.
